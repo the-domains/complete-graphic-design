@@ -1,16 +1,16 @@
-layout_spectrum: 0.26024333224631846
-typography_spectrum: 0.24664951767772436
+layout_spectrum: 0.7488015431445092
+typography_spectrum: 0.34334144182503223
 color:
-  brandStrength: 0.046086367685347795
-  lightness: 0.9180841632187366
-  saturation: 0.9150446935091168
-  rhythmicContrast: 0.4068623206112534
+  brandStrength: 0.1332766250707209
+  lightness: 0.13082671235315502
+  saturation: 0.6058526893611997
+  rhythmicContrast: 0.5154558799695224
   brandColors:
-    - '#2B3A42'
-    - '#3F5765'
-    - '#BDD4DE'
-    - '#EFEFEF'
-    - '#FF530D'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
 name: Complete Graphic Design
 author:
   name: Derrick Mitchell
